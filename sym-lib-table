@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MEMS")(type "KiCad")(uri "${KIPRJMOD}/SIT2001B.kicad_sym")(options "")(descr ""))
+)
